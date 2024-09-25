@@ -200,4 +200,3 @@ fun printsUser(name: String) {
     print("Your name is $name")
 }
 val user = setUser("Alfian", 19)
-
